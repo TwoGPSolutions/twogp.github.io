@@ -1,2 +1,3 @@
-# twogp.github.io
-Public Website of TwoGP Solutions
+# TwoGP Solutions
+
+An Open Source non-profitable organization
